@@ -12,14 +12,28 @@
 <body>
 	<table width="950">
 		<tr>
-			<td colspan="2">&nbsp;</td>
+			<td colspan="2"><img src="../images/outdoor-shooting-range.jpg" width="950" height="150" /></td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>
+				<ul>
+					<li><a href="../index.html">Homepage</a></li>
+					<li><a href="../about-the-company.html">About the Company</a></li>
+					<li><a href="../products/beretta-92fs.html">Beretta 92FS (9MM)</a></li>
+					<li><a href="../products/sig-sauer-p229.html">Sig Sauer P229 (9MM)</a></li>
+					<li><a href="../products/heckler-koch-p30l.html">Heckler &amp; Koch P30L (9MM)</a></li>
+					<li><a href="../products/walther-ppq-m2.html">Walther PPQ M2</a></li>
+					<li><a href="../ranges/east-coast.html">Location #1: East Coast</a></li>
+					<li><a href="../ranges/west-coast.html">Location #2: West Coast</a></li>
+					<li><a href="../ranges/new-england.html">Location #3: New England Area</a></li>
+					<li><a href="../ranges/mid-west.html">Location #4: Midwest</a></li>
+				</ul>
+<p>&nbsp;</p>
+			</td>
+			<td><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></td>
 		</tr>
 		<tr>
-			<td colspan="2">&nbsp;</td>
+			<td colspan="2"><img src="../images/top-view-forest.jpg" width="950" height="150" /></td>
 		</tr>
 	</table>
 </body>
